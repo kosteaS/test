@@ -1,0 +1,3 @@
+Git status - verificam status repozitorului local
+Git init - initializam repozitoriu (proiect)
+git remote -v - verifica repository indepartat(online)
