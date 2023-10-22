@@ -3,3 +3,8 @@ Git init - initializam repozitoriu (proiect)
 git remote -v - verifica repository indepartat(online)
 git add . - adaugam toate fisierele care urmeaza sa fie comentate cu "commit"
 git commit -m"master - git init first commit" - am comitat cu comentariul din ghilimele
+git remote add origin https://github.com/kosteaS/test.git - adaugam url-ul de pe github
+
+Branch - reprezinta o ramura
+
+git checkout -b branch2 - fiind in branch master am creat si accesat copil "banch2"
