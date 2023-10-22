@@ -1,3 +1,5 @@
 Git status - verificam status repozitorului local
 Git init - initializam repozitoriu (proiect)
 git remote -v - verifica repository indepartat(online)
+git add . - adaugam toate fisierele care urmeaza sa fie comentate cu "commit"
+git commit -m"master - git init first commit" - am comitat cu comentariul din ghilimele
