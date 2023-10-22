@@ -4,6 +4,7 @@ git remote -v - verifica repository indepartat(online)
 git add . - adaugam toate fisierele care urmeaza sa fie comentate cu "commit"
 git commit -m"master - git init first commit" - am comitat cu comentariul din ghilimele
 git remote add origin https://github.com/kosteaS/test.git - adaugam url-ul de pe github
+it push origin branch2 - incarcam totul pe hub. 
 
 Branch - reprezinta o ramura
 
